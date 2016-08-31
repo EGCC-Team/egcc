@@ -1,0 +1,16 @@
+{
+"title":"My creature",
+"author":"My name",
+"contact":"identifier@domain.com",
+"description":"a description of my creature",
+"icon":"icon.png"
+}
+<?xml version="1.0" encoding="UTF-8" ?>
+<root>
+	<author>My name</author>
+	<contact>identifier@domain.com</contact>
+	<description><![CDATA[
+	A description of my creature
+	]]></description>
+	<icon>icon.png</icon>
+</root>

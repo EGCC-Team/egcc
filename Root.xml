@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<resource_file type="PackedScene" subresource_count="3" version="2.1" version_name="Godot Engine v2.1.stable.official">
+	<ext_resource path="res://Root.gd" type="Script" index="0"></ext_resource>
+	<ext_resource path="res://assets/Choice_Scene/Choice.xml" type="PackedScene" index="1"></ext_resource>
+	<main_resource>
+		<dictionary name="_bundled" shared="false">
+			<string> "conn_count" </string>
+			<int> 1 </int>
+			<string> "conns" </string>
+			<int_array  len="6"> 				6, 0, 44, 43, 2, 0 </int_array>
+			<string> "editable_instances" </string>
+			<array  len="0" shared="false">
+			</array>
+			<string> "names" </string>
+			<string_array  len="45">
+				<string> "Root" </string>
+				<string> "script/script" </string>
+				<string> "Node" </string>
+				<string> "Scenes" </string>
+				<string> "Node2D" </string>
+				<string> "Choice" </string>
+				<string> "transform/pos" </string>
+				<string> "Loading" </string>
+				<string> "editor/display_folded" </string>
+				<string> "Animation" </string>
+				<string> "playback/process_mode" </string>
+				<string> "playback/default_blend_time" </string>
+				<string> "root/root" </string>
+				<string> "playback/active" </string>
+				<string> "playback/speed" </string>
+				<string> "blend_times" </string>
+				<string> "autoplay" </string>
+				<string> "AnimationPlayer" </string>
+				<string> "Progress" </string>
+				<string> "focus/ignore_mouse" </string>
+				<string> "focus/stop_mouse" </string>
+				<string> "size_flags/horizontal" </string>
+				<string> "size_flags/vertical" </string>
+				<string> "margin/left" </string>
+				<string> "margin/top" </string>
+				<string> "margin/right" </string>
+				<string> "margin/bottom" </string>
+				<string> "range/min" </string>
+				<string> "range/max" </string>
+				<string> "range/step" </string>
+				<string> "range/page" </string>
+				<string> "range/value" </string>
+				<string> "range/exp_edit" </string>
+				<string> "range/rounded" </string>
+				<string> "percent/visible" </string>
+				<string> "ProgressBar" </string>
+				<string> "Back_btn" </string>
+				<string> "toggle_mode" </string>
+				<string> "enabled_focus_mode" </string>
+				<string> "shortcut" </string>
+				<string> "text" </string>
+				<string> "flat" </string>
+				<string> "Button" </string>
+				<string> "_on_Back_btn_pressed" </string>
+				<string> "pressed" </string>
+			</string_array>
+			<string> "node_count" </string>
+			<int> 7 </int>
+			<string> "node_paths" </string>
+			<array  len="0" shared="false">
+			</array>
+			<string> "nodes" </string>
+			<int_array  len="129"> 				-1, -1, 2, 0, -1, 1, 1, 0, 0, 0, 0, 4, 3, -1, 0, 0, 0, 0, 2147483647, 5, 1, 1, 6, 2, 0, 0, 0, 4, 7, -1, 2, 8, 3, 6, 4, 0, 3, 0, 17, 9, -1, 7, 10, 5, 11, 6, 12, 7, 13, 3, 14, 8, 15, 9, 16, 10, 0, 3, 0, 35, 18, -1, 16, 19, 11, 20, 3, 21, 12, 22, 13, 23, 14, 24, 15, 25, 16, 26, 17, 27, 6, 28, 18, 29, 8, 30, 6, 31, 8, 32, 11, 33, 11, 34, 3, 0, 0, 0, 42, 36, -1, 13, 19, 11, 20, 3, 21, 12, 22, 12, 23, 19, 24, 20, 25, 21, 26, 22, 37, 11, 38, 12, 39, 23, 40, 24, 41, 11, 0 </int_array>
+			<string> "variants" </string>
+			<array  len="25" shared="false">
+				<resource  external="0">  </resource>
+				<resource  external="1">  </resource>
+				<vector2> 156.443, 106.109 </vector2>
+				<bool> True </bool>
+				<vector2> 151.002, 119.713 </vector2>
+				<int> 1 </int>
+				<real> 0 </real>
+				<node_path> ".." </node_path>
+				<real> 1 </real>
+				<array  len="0" shared="false">
+				</array>
+				<string> "" </string>
+				<bool> False </bool>
+				<int> 2 </int>
+				<int> 0 </int>
+				<real> 36 </real>
+				<real> 87 </real>
+				<real> 52 </real>
+				<real> 103 </real>
+				<real> 100 </real>
+				<real> -0.998474 </real>
+				<real> -0.287094 </real>
+				<real> 11.001526 </real>
+				<real> 19.712906 </real>
+				<resource name=""></resource>				<string> "Back" </string>
+			</array>
+			<string> "version" </string>
+			<int> 2 </int>
+		</dictionary>
+
+	</main_resource>
+</resource_file>
